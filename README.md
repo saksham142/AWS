@@ -54,4 +54,5 @@ Docker is an open-source platform that enables developers to automate the deploy
   <img src= https://github.com/saksham142/AWS/blob/2d6b245c98cc9ba5aea7e91a5af5a27c777bebb4/1_9R59VNTAanVTzFefjOXqvg.png alt="Description" />
 </p>   
 
+Nginx (pronounced "engine-x") is a high-performance web server, reverse proxy, and load balancer. Designed for efficiency, it uses an asynchronous, event-driven architecture, allowing it to handle thousands of simultaneous connections with low memory usage. Nginx excels at serving static content and can distribute traffic across multiple servers, enhancing reliability and speed. It supports SSL/TLS for secure connections and modern protocols like HTTP/2 and gRPC. Configuration is straightforward, using text files to define server and location blocks. Overall, Nginx is a popular choice for high-traffic websites and applications due to its scalability and performance.
 
