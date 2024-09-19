@@ -46,3 +46,12 @@ Docker is an open-source platform that enables developers to automate the deploy
 
       sudo apt install docker-ce
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# NGINX
+
+
+<p align="center">
+  <img src= https://github.com/saksham142/starting-ec2/blob/cd28260524bbf1012c67118dda918f1b60715fdf/1_AFo8ylyGvmAzIlKvsQiT-A.jpg alt="Description" />
+</p>   
+
+
