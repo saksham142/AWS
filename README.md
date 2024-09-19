@@ -51,7 +51,7 @@ Docker is an open-source platform that enables developers to automate the deploy
 
 
 <p align="center">
-  <img src=  alt="Description" />
+  <img src= https://github.com/saksham142/AWS/blob/2d6b245c98cc9ba5aea7e91a5af5a27c777bebb4/1_9R59VNTAanVTzFefjOXqvg.png alt="Description" />
 </p>   
 
 
