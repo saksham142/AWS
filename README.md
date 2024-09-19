@@ -56,3 +56,23 @@ Docker is an open-source platform that enables developers to automate the deploy
 
 Nginx (pronounced "engine-x") is a high-performance web server, reverse proxy, and load balancer. Designed for efficiency, it uses an asynchronous, event-driven architecture, allowing it to handle thousands of simultaneous connections with low memory usage. Nginx excels at serving static content and can distribute traffic across multiple servers, enhancing reliability and speed. It supports SSL/TLS for secure connections and modern protocols like HTTP/2 and gRPC. Configuration is straightforward, using text files to define server and location blocks. Overall, Nginx is a popular choice for high-traffic websites and applications due to its scalability and performance.
 
+Key Features:
+
+   - High Performance: Nginx is designed to handle a large number of concurrent connections efficiently. It uses an event-driven architecture, which allows it to serve multiple requests without consuming a lot of resources.
+
+   - Reverse Proxy: It can act as a reverse proxy, forwarding client requests to other servers. This is useful for load balancing and increasing security.
+
+   -  Load Balancing: Nginx can distribute incoming traffic across multiple servers to ensure no single server is overwhelmed, improving reliability and performance.
+
+   -  Static Content Serving: Nginx excels at serving static files (like images, CSS, and JavaScript) quickly and efficiently.
+
+   -  SSL/TLS Support: It provides built-in support for secure connections via SSL/TLS, making it suitable for serving HTTPS traffic.
+
+   -  URL Rewriting: Nginx can rewrite URLs, which is useful for SEO and maintaining user-friendly links.
+
+   -  Flexible Configuration: Its configuration files are simple and allow for complex setups, including virtual hosting and URL routing.
+
+   - WebSockets Support: Nginx can handle WebSocket connections, making it a good choice for real-time web applications.
+
+
+
